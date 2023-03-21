@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Daniel</h1>
 <h3 align="left">A passionate fullstack web developer from Berlin</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: instagram @itsdanielpippin</h3>
 <p align="left">
 </p>
 
